@@ -1,0 +1,93 @@
+#logo{
+    width: 200px;
+    position: absolute;
+}
+.navbar{
+    margin-left: 1000px;
+    
+}
+#btn{
+    margin-top: 30px;
+    margin-left: 20px;
+    border-radius: 10px;
+    width: 100px;
+    height: 30px;
+    
+
+}
+#img01{
+    margin-top: 70px;
+    
+    width: 1000px;
+    height: 400px;
+}
+.hading1{
+ color: chartreuse;
+ font-size: 70px;
+ text-align: center;   
+}
+.hading2{
+    color: chartreuse;
+    font-size: 40px;
+    text-align: center;   
+}
+.paragraph{color: blue; 
+text-align: center;
+font-size: 20px;
+
+}
+.pic1{ margin-top: 70px;
+    margin-left: 80px;
+    width: 900px;
+    height: 400px;
+    margin-top: 0px;        
+}
+    .old{
+        background-color:rgb(128, 139, 204);
+    }
+    .line{
+        background-color: rgb(8, 250, 32);
+        width: 900px;
+        height: 4px;
+        ;
+    }
+    .btn1{
+        height: 50px;
+        width: 200px;
+        border-radius: 20px;
+        font-size: 20px;
+        color: aliceblue;
+        background-color: rgb(15, 155, 15);
+    }
+    .logo2{
+        margin-top: 40px;
+    }
+    .para{text-align: center;
+        color: rgb(25, 207, 95); 
+        font-size: 50px;
+        margin-top: 0px;}
+    
+    .pic2{
+         position: absolute; margin-left: 140px;
+    }
+    .text{
+        margin-left: 530px; margin-top: 70px;
+    }
+    .div-01{
+        margin-left: 239px;
+    }
+    .div-02{
+        width: 380px;
+        height: 200px;
+        display: inline-block;
+        margin-left: 30px;
+        margin-top: 20px;
+        text-align: center;
+        font-style: oblique;
+        background-color: rgb(155, 242, 188);
+
+    }
+    .img-last{
+        margin-left: 20px;
+        width: 40px;
+    }
